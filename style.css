@@ -1,32 +1,73 @@
-#welcome{
-    background-color: 
-aliceblue;
-width: 1500;
+#welcome {
+    background-color:
+        aliceblue;
+    width: 1500;
     align-items: center
 }
-input
-{
+
+input {
     background: grey;
 }
-.my_nav_bar{
+
+.my_nav_bar {
     top: 0;
     position: sticky;
     z-index: 99999;
-    
-}
-#h1{
-    text-align: center;
-    
+background-color: black;
 }
 
-#v1{
-    padding:10;
+#h1 {
+    text-align: center;
+
+}
+
+#v1 {
+    padding: 10;
     padding-left: 50;
 }
-#v2{
-  padding-left: 50;
+
+#v2 {
+    padding-left: 50;
     padding: 10;
 }
-h3{
+
+h3 {
+    text-align: center;
+}
+
+#welcome {
+    background-color:
+        aliceblue;
+    width: 1500;
+    align-items: center
+}
+
+input {
+    background: grey;
+}
+
+.my_nav_bar {
+    top: 0;
+    position: sticky;
+    z-index: 99999;
+
+}
+
+#h1 {
+    text-align: center;
+
+}
+
+#v1 {
+    padding: 10;
+    padding-left: 50;
+}
+
+#v2 {
+    padding-left: 50;
+    padding: 10;
+}
+
+h3 {
     text-align: center;
 }
